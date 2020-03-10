@@ -14,8 +14,9 @@ Experiments/XibLessSwiftApp/XibLessSwiftApp/xcuserdata
 Experiments/XibLessSwiftApp/xcuserdata
 FormsTest/bin
 FormsTest/obj
-FormsTestApp/Info.plist
 FormsTestApp/Properties/AssemblyInfo.cs
+FormsTestApp/bin
+FormsTestApp/obj
 MacApi/bin
 MacApi/obj
 MacBridge.Test/bin
