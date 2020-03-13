@@ -1,4 +1,15 @@
 * text=auto !eol
+Backup.app/Contents/Info.plist -text
+Backup.app/Contents/MacOS/Backup -text
+Backup.app/Contents/PkgInfo -text
+Backup.app/Contents/_CodeSignature/CodeResources -text
+Backup/Backup.xcodeproj/project.pbxproj -text
+Backup/Backup.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
+Backup/Backup/AppDelegate.h -text
+Backup/Backup/AppDelegate.m -text
+Backup/Backup/Backup.entitlements -text
+Backup/Backup/Info.plist -text
+Backup/Backup/main.m -text
 ConsoleTest/ConsoleTest.csproj -text
 ConsoleTest/Program.cs -text
 ConsoleTest/Properties/AssemblyInfo.cs -text
