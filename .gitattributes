@@ -264,6 +264,7 @@ MacBridge/WinApi/Win32.cs -text
 /MonoMac.dll -text
 /README.md -text
 Relauncher.app/Contents/Frameworks/libswiftCore.dylib -text
+Relauncher.app/Contents/Frameworks/libswiftCoreFoundation.dylib -text
 Relauncher.app/Contents/Frameworks/libswiftCoreGraphics.dylib -text
 Relauncher.app/Contents/Frameworks/libswiftDarwin.dylib -text
 Relauncher.app/Contents/Frameworks/libswiftDispatch.dylib -text
